@@ -1,0 +1,28 @@
+.navigationBarcontainer {
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+
+  .navigationBar-innerContainer {
+    display: flex;
+    justify-content: space-between;
+
+    .navigationBar-brandContainer {
+      align-items: center;
+      display: grid;
+    }
+
+    .navigationBar-navigationItemsContainer {
+      align-items: center;
+      display: grid;
+
+      .navbar {
+        display: flex;
+
+        .nav-items {
+          display: block;
+          padding: 1rem 0.8rem;
+        }
+      }
+    }
+  }
+}
