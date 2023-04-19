@@ -72,7 +72,35 @@
 
             </nav>
 
-            <div class="hero">
+            <div class="hero container">
+
+                <div class="hero-innterContentContainer">
+
+                    <h1>
+                        Connecting You to
+                    </h1>
+
+                    <h2>the World</h2>
+
+                    <p>
+                        We specialize in reliable and high-quality IT solutions. From custom software development and
+                        network design to system maintenance and support, we have the expertise to meet all your IT
+                        needs.
+                    </p>
+
+                    <div class="hero-buttonContainer">
+
+                        <button class="btn btn-primary-outlined">
+                            Our Projects
+                        </button>
+
+                        <button class="btn btn-primary">
+                            Contact Us
+                        </button>
+
+                    </div>
+
+                </div>
 
             </div>
 

@@ -1,0 +1,35 @@
+.hero {
+  color: var(--white);
+  display: grid;
+  margin-block: 2rem;
+
+  .hero-innterContentContainer {
+    font-family: Helvetica, sans-serif;
+    max-width: 55ch;
+    margin-block: inherit;
+
+    h1,
+    h2 {
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      font-size: clamp(1rem, 3vw, 2rem);
+    }
+
+    h2 {
+      font-size: clamp(1rem, 6vw, 6rem);
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    .hero-buttonContainer {
+      display: flex;
+      gap: 2rem;
+      margin-block: 1rem;
+    }
+  }
+}
