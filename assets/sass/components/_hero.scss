@@ -15,11 +15,11 @@
     }
 
     h1 {
-      font-size: clamp(1rem, 3vw, 2rem);
+      font-size: clamp(1rem, 5vw, 2rem);
     }
 
     h2 {
-      font-size: clamp(1rem, 6vw, 6rem);
+      font-size: clamp(1rem, 13vw, 4.9rem);
     }
 
     p {
@@ -28,7 +28,7 @@
 
     .hero-buttonContainer {
       display: flex;
-      gap: 2rem;
+      gap: 1.5rem;
       margin-block: 1rem;
     }
   }

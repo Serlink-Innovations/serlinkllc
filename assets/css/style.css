@@ -23,13 +23,20 @@
 .navigationBarcontainer {
   color: #fff;
   font-family: Helvetica, sans-serif;
+  padding-top: 1rem;
 }
 @media screen and (max-width: 55em) {
   .navigationBarcontainer .navigationBar-innerContainer {
     display: block !important;
+    position: relative;
   }
   .navigationBarcontainer .navigationBar-innerContainer .navbar {
-    display: grid !important;
+    width: 100%;
+    color: #000;
+    background-color: var(--white);
+    display: none !important;
+    position: absolute;
+    margin-top: 13rem;
   }
 }
 .navigationBarcontainer .navigationBar-innerContainer {
@@ -68,17 +75,17 @@
   text-transform: uppercase;
 }
 .hero .hero-innterContentContainer h1 {
-  font-size: clamp(1rem, 3vw, 2rem);
+  font-size: clamp(1rem, 5vw, 2rem);
 }
 .hero .hero-innterContentContainer h2 {
-  font-size: clamp(1rem, 6vw, 6rem);
+  font-size: clamp(1rem, 13vw, 4.9rem);
 }
 .hero .hero-innterContentContainer p {
   line-height: 1.5;
 }
 .hero .hero-innterContentContainer .hero-buttonContainer {
   display: flex;
-  gap: 2rem;
+  gap: 1.5rem;
   margin-block: 1rem;
 }
 
@@ -190,11 +197,12 @@ meter {
 }
 
 .btn {
+  align-items: center;
   border: none;
   border-radius: 100vmax;
   cursor: pointer;
-  display: inline-flex;
-  padding: 0.8rem 2rem;
+  display: inline-grid;
+  padding: 0.8rem 1rem;
 }
 
 .btn-primary {
