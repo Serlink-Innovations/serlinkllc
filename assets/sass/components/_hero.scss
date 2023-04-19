@@ -31,5 +31,36 @@
       gap: 1.5rem;
       margin-block: 1rem;
     }
+
+    .hero-clientsLogoContainer {
+      display: grid;
+
+      #clients {
+        align-items: center;
+        display: inline-flex;
+        font-size: 0.8rem;
+        gap: 0.6rem;
+      }
+
+      #clients::after {
+        width: 1.5rem;
+        height: 0.06rem;
+        background-color: var(--white);
+        content: "";
+        display: grid;
+        place-content: center;
+      }
+
+      #clients-logoContainer {
+        max-width: inherit;
+        display: flex;
+
+        a {
+          width: 150px;
+          fill: var(--white);
+          padding-block: 1rem;
+        }
+      }
+    }
   }
 }
