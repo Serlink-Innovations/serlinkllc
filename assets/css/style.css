@@ -356,6 +356,58 @@ meter {
   margin: 0.4rem;
 }
 
+/**
+* Project Cards
+**/
+.project-card > * {
+  grid-column: 1/-1;
+  grid-row: 1/-1;
+}
+
+.project-card {
+  max-width: 300px;
+  border-radius: 12px;
+  color: #fff;
+  cursor: pointer;
+  display: grid;
+  isolation: isolate;
+  place-items: center;
+  overflow: hidden;
+  position: relative;
+  transform: translateY(0);
+}
+.project-card img {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: -1;
+}
+
+.project-card::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: rgba(34, 76, 141, 0.5);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  display: grid;
+  position: absolute;
+  place-items: center;
+  transform: translateY(100%);
+  transition: ease-in-out 500ms;
+}
+
+.project-card:hover::after {
+  content: "View Project";
+  border-radius: inherit;
+  font-family: sans-serif;
+  font-size: clamp(1rem, 10vw, 1.2rem);
+  letter-spacing: 1px;
+  position: absolute;
+  transform: translateY(0);
+  text-transform: uppercase;
+}
+
 .container {
   padding-right: 15px;
   padding-left: 15px;
@@ -482,6 +534,14 @@ body {
 
 .projects-contentContainer {
   background-color: #f0f8ff;
+}
+.projects-contentContainer .projects-contentContainerTray {
+  width: 100%;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  place-items: center;
+  margin-block: 2rem;
 }
 
 .team-contentContainer {
