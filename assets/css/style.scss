@@ -25,6 +25,11 @@ body {
     font-variant: small-caps;
     text-align: center;
   }
+
+  p {
+    line-height: 1.5;
+    margin-block: 2rem;
+  }
 }
 
 .about-contentContainer {
@@ -60,18 +65,87 @@ body {
     margin-block: 1rem;
   }
 
-  p {
-    line-height: 1.5;
-  }
-
   .services-serviceCardTray {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    place-items: center;
     margin-block: 2rem;
   }
 }
 
 .projects-contentContainer {
   background-color: #f0f8ff;
+}
+
+.team-contentContainer {
+  display: flex;
+  flex-direction: column;
+
+  .team-contentContainerMembers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    place-items: center;
+  }
+}
+
+.footer {
+  background-color: #f0f8ff;
+
+  @media screen and (max-width: 600px) {
+    .footer-contentContainer {
+      display: flex !important;
+      flex-direction: column !important;
+
+      .footer-nav {
+        place-self: unset !important;
+      }
+    }
+  }
+
+  .footer-contentContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    margin-block: 2rem;
+    padding-block: 2rem;
+    font-size: 0.95rem;
+
+    h3 {
+      color: var(--primary);
+      font-weight: bold;
+      font-size: clamp(1rem, 6vw, 1.6rem);
+      margin-block: 1.8rem;
+    }
+
+    .footer-nav {
+      place-self: center;
+    }
+
+    ul {
+      display: grid;
+
+      li {
+        padding-bottom: 1rem;
+      }
+    }
+
+    .footer-contentContainerCompanyInfo {
+      display: grid;
+
+      img {
+        margin-left: -0.65rem;
+      }
+
+      label strong {
+        font-weight: bold;
+      }
+    }
+  }
+
+  #copyright {
+    color: var(--white);
+    background-color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 1rem;
+  }
 }

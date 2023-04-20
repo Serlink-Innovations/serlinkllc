@@ -296,6 +296,66 @@ meter {
   transition: ease-in-out 0.5s;
 }
 
+/**
+* Members Cards
+**/
+.member-card {
+  width: 250px;
+  min-height: 100%;
+  border-radius: 8px;
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 5px 8px 0px rgba(0, 0, 0, 0.14), 0px 1px 14px 0px rgba(0, 0, 0, 0.12);
+  position: relative;
+  overflow: hidden;
+}
+.member-card img {
+  width: 100%;
+  height: 100%;
+}
+.member-card .member-info {
+  background: rgba(240, 248, 255, 0.6);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  color: var(--text-secondary);
+  display: grid;
+  place-content: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+.member-card .member-info .title {
+  display: flex;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  padding-block: 0.5rem;
+  justify-content: center;
+}
+.member-card .member-info .name {
+  font-size: clamp(1rem, 10vw, 1.5rem);
+  padding-bottom: 1rem;
+  text-align: center;
+}
+.member-card .member-info .member-social {
+  align-items: center;
+  display: none;
+  gap: 1rem;
+  justify-content: center;
+}
+.member-card .member-info .member-social a {
+  background-color: var(--primary);
+  border-radius: 100vmax;
+  overflow: hidden;
+  padding: 0.4em;
+}
+.member-card .member-info .member-social svg {
+  width: 1.5em;
+  height: 1.5em;
+  fill: var(--text-primary);
+  margin: 0.4rem;
+}
+
 .container {
   padding-right: 15px;
   padding-left: 15px;
@@ -377,6 +437,13 @@ body {
   font-variant: small-caps;
   text-align: center;
 }
+.about-contentContainer p,
+.services-contentContainer p,
+.projects-contentContainer p,
+.team-contentContainer p {
+  line-height: 1.5;
+  margin-block: 2rem;
+}
 
 .about-contentContainer {
   color: #000;
@@ -406,16 +473,74 @@ body {
   text-align: center;
   margin-block: 1rem;
 }
-.services-contentContainer p {
-  line-height: 1.5;
-}
 .services-contentContainer .services-serviceCardTray {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  place-items: center;
   margin-block: 2rem;
 }
 
 .projects-contentContainer {
   background-color: #f0f8ff;
+}
+
+.team-contentContainer {
+  display: flex;
+  flex-direction: column;
+}
+.team-contentContainer .team-contentContainerMembers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  place-items: center;
+}
+
+.footer {
+  background-color: #f0f8ff;
+}
+@media screen and (max-width: 600px) {
+  .footer .footer-contentContainer {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .footer .footer-contentContainer .footer-nav {
+    place-self: unset !important;
+  }
+}
+.footer .footer-contentContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  margin-block: 2rem;
+  padding-block: 2rem;
+  font-size: 0.95rem;
+}
+.footer .footer-contentContainer h3 {
+  color: var(--primary);
+  font-weight: bold;
+  font-size: clamp(1rem, 6vw, 1.6rem);
+  margin-block: 1.8rem;
+}
+.footer .footer-contentContainer .footer-nav {
+  place-self: center;
+}
+.footer .footer-contentContainer ul {
+  display: grid;
+}
+.footer .footer-contentContainer ul li {
+  padding-bottom: 1rem;
+}
+.footer .footer-contentContainer .footer-contentContainerCompanyInfo {
+  display: grid;
+}
+.footer .footer-contentContainer .footer-contentContainerCompanyInfo img {
+  margin-left: -0.65rem;
+}
+.footer .footer-contentContainer .footer-contentContainerCompanyInfo label strong {
+  font-weight: bold;
+}
+.footer #copyright {
+  color: var(--white);
+  background-color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 1rem;
 }/*# sourceMappingURL=style.css.map */

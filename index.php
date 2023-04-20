@@ -269,90 +269,90 @@
                                 xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink">
                                 <style type="text/css">
-                                    .st0 {
-                                        fill: #B7C5FD;
-                                    }
+                                .st0 {
+                                    fill: #B7C5FD;
+                                }
 
-                                    .st1 {
-                                        fill: #9AADFD;
-                                    }
+                                .st1 {
+                                    fill: #9AADFD;
+                                }
 
-                                    .st2 {
-                                        fill: #FFFFFF;
-                                    }
+                                .st2 {
+                                    fill: #FFFFFF;
+                                }
 
-                                    .st3 {
-                                        fill: #3955D1;
-                                    }
+                                .st3 {
+                                    fill: #3955D1;
+                                }
 
-                                    .st4 {
-                                        fill: #4466FB;
-                                    }
+                                .st4 {
+                                    fill: #4466FB;
+                                }
 
-                                    .st5 {
-                                        fill: #AABAFD;
-                                    }
+                                .st5 {
+                                    fill: #AABAFD;
+                                }
 
-                                    .st6 {
-                                        fill: #798FFE;
-                                    }
+                                .st6 {
+                                    fill: #798FFE;
+                                }
 
-                                    .st7 {
-                                        fill: #6BB5FB;
-                                    }
+                                .st7 {
+                                    fill: #6BB5FB;
+                                }
 
-                                    .st8 {
-                                        enable-background: new;
-                                    }
+                                .st8 {
+                                    enable-background: new;
+                                }
 
-                                    .st9 {
-                                        fill: #1B2A4F;
-                                    }
+                                .st9 {
+                                    fill: #1B2A4F;
+                                }
 
-                                    .st10 {
-                                        fill: url(#);
-                                    }
+                                .st10 {
+                                    fill: url(#);
+                                }
 
-                                    .st11 {
-                                        fill: #384E85;
-                                    }
+                                .st11 {
+                                    fill: #384E85;
+                                }
 
-                                    .st12 {
-                                        fill: #2E4277;
-                                    }
+                                .st12 {
+                                    fill: #2E4277;
+                                }
 
-                                    .st13 {
-                                        fill: #D9DDF6;
-                                    }
+                                .st13 {
+                                    fill: #D9DDF6;
+                                }
 
-                                    .st14 {
-                                        fill: #535D88;
-                                    }
+                                .st14 {
+                                    fill: #535D88;
+                                }
 
-                                    .st15 {
-                                        fill: #2B3C67;
-                                    }
+                                .st15 {
+                                    fill: #2B3C67;
+                                }
 
-                                    .st16 {
-                                        fill: #8FCCFF;
-                                    }
+                                .st16 {
+                                    fill: #8FCCFF;
+                                }
 
-                                    .st17 {
-                                        fill: #8CA1FD;
-                                    }
+                                .st17 {
+                                    fill: #8CA1FD;
+                                }
 
-                                    .st18 {
-                                        opacity: 0.3;
-                                    }
+                                .st18 {
+                                    opacity: 0.3;
+                                }
 
-                                    .st19 {
-                                        opacity: 0.3;
-                                        fill: #4466FB;
-                                    }
+                                .st19 {
+                                    opacity: 0.3;
+                                    fill: #4466FB;
+                                }
 
-                                    .st20 {
-                                        opacity: 0.2;
-                                    }
+                                .st20 {
+                                    opacity: 0.2;
+                                }
                                 </style>
                                 <g>
                                     <g>
@@ -450,1018 +450,1018 @@
                                 xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink">
                                 <style type="text/css">
-                                    .st0 {
-                                        fill: none;
-                                    }
-
-                                    .st1 {
-                                        fill: #AABAFD;
-                                    }
-
-                                    .st2 {
-                                        fill: #B7C5FD;
-                                    }
-
-                                    .st3 {
-                                        fill: #1B2A4F;
-                                    }
-
-                                    .st4 {
-                                        fill: #798FFE;
-                                    }
-
-                                    .st5 {
-                                        fill: #9AADFD;
-                                    }
-
-                                    .st6 {
-                                        fill: #FFFFFF;
-                                    }
-
-                                    .st7 {
-                                        fill: #3955D1;
-                                    }
-
-                                    .st8 {
-                                        fill: #4466FB;
-                                    }
-
-                                    .st9 {
-                                        fill: #6BB5FB;
-                                    }
-
-                                    .st10 {
-                                        enable-background: new;
-                                    }
-
-                                    .st11 {
-                                        fill: url(#SVGID_1_);
-                                    }
-
-                                    .st12 {
-                                        fill: url(#SVGID_2_);
-                                    }
-
-                                    .st13 {
-                                        fill: url(#);
-                                    }
-
-                                    .st14 {
-                                        fill: url(#SVGID_3_);
-                                    }
-
-                                    .st15 {
-                                        fill: url(#SVGID_4_);
-                                    }
-
-                                    .st16 {
-                                        fill: url(#SVGID_5_);
-                                    }
-
-                                    .st17 {
-                                        fill: url(#SVGID_6_);
-                                    }
-
-                                    .st18 {
-                                        fill: url(#SVGID_7_);
-                                    }
-
-                                    .st19 {
-                                        fill: #384E85;
-                                    }
-
-                                    .st20 {
-                                        fill: #2E4277;
-                                    }
-
-                                    .st21 {
-                                        fill: #D9DDF6;
-                                    }
-
-                                    .st22 {
-                                        fill: url(#SVGID_8_);
-                                    }
-
-                                    .st23 {
-                                        fill: url(#SVGID_9_);
-                                    }
-
-                                    .st24 {
-                                        fill: url(#SVGID_10_);
-                                    }
-
-                                    .st25 {
-                                        fill: url(#SVGID_11_);
-                                    }
-
-                                    .st26 {
-                                        fill: url(#SVGID_12_);
-                                    }
-
-                                    .st27 {
-                                        fill: url(#SVGID_13_);
-                                    }
-
-                                    .st28 {
-                                        fill: url(#SVGID_14_);
-                                    }
-
-                                    .st29 {
-                                        fill: url(#SVGID_15_);
-                                    }
-
-                                    .st30 {
-                                        fill: url(#SVGID_16_);
-                                    }
-
-                                    .st31 {
-                                        fill: url(#SVGID_17_);
-                                    }
-
-                                    .st32 {
-                                        fill: url(#SVGID_18_);
-                                    }
-
-                                    .st33 {
-                                        fill: url(#SVGID_19_);
-                                    }
-
-                                    .st34 {
-                                        fill: url(#SVGID_20_);
-                                    }
-
-                                    .st35 {
-                                        fill: url(#SVGID_21_);
-                                    }
-
-                                    .st36 {
-                                        fill: url(#SVGID_22_);
-                                    }
-
-                                    .st37 {
-                                        fill: url(#SVGID_23_);
-                                    }
-
-                                    .st38 {
-                                        fill: url(#SVGID_24_);
-                                    }
-
-                                    .st39 {
-                                        fill: url(#SVGID_25_);
-                                    }
-
-                                    .st40 {
-                                        fill: url(#SVGID_26_);
-                                    }
-
-                                    .st41 {
-                                        fill: url(#SVGID_27_);
-                                    }
-
-                                    .st42 {
-                                        fill: url(#SVGID_28_);
-                                    }
-
-                                    .st43 {
-                                        fill: url(#SVGID_29_);
-                                    }
-
-                                    .st44 {
-                                        fill: url(#SVGID_30_);
-                                    }
-
-                                    .st45 {
-                                        fill: url(#SVGID_31_);
-                                    }
-
-                                    .st46 {
-                                        fill: url(#SVGID_32_);
-                                    }
-
-                                    .st47 {
-                                        fill: url(#SVGID_33_);
-                                    }
-
-                                    .st48 {
-                                        fill: url(#SVGID_34_);
-                                    }
-
-                                    .st49 {
-                                        fill: url(#SVGID_35_);
-                                    }
-
-                                    .st50 {
-                                        fill: url(#SVGID_36_);
-                                    }
-
-                                    .st51 {
-                                        fill: url(#SVGID_37_);
-                                    }
-
-                                    .st52 {
-                                        fill: url(#SVGID_38_);
-                                    }
-
-                                    .st53 {
-                                        fill: url(#SVGID_39_);
-                                    }
-
-                                    .st54 {
-                                        fill: url(#SVGID_40_);
-                                    }
-
-                                    .st55 {
-                                        fill: url(#SVGID_41_);
-                                    }
-
-                                    .st56 {
-                                        fill: url(#SVGID_42_);
-                                    }
-
-                                    .st57 {
-                                        fill: url(#SVGID_43_);
-                                    }
-
-                                    .st58 {
-                                        fill: url(#SVGID_44_);
-                                    }
-
-                                    .st59 {
-                                        fill: url(#SVGID_45_);
-                                    }
-
-                                    .st60 {
-                                        fill: url(#SVGID_46_);
-                                    }
-
-                                    .st61 {
-                                        fill: url(#SVGID_47_);
-                                    }
-
-                                    .st62 {
-                                        fill: url(#SVGID_48_);
-                                    }
-
-                                    .st63 {
-                                        fill: url(#SVGID_49_);
-                                    }
-
-                                    .st64 {
-                                        fill: url(#SVGID_50_);
-                                    }
-
-                                    .st65 {
-                                        fill: url(#SVGID_51_);
-                                    }
-
-                                    .st66 {
-                                        fill: url(#SVGID_52_);
-                                    }
-
-                                    .st67 {
-                                        fill: url(#SVGID_53_);
-                                    }
-
-                                    .st68 {
-                                        fill: url(#SVGID_54_);
-                                    }
-
-                                    .st69 {
-                                        fill: url(#SVGID_55_);
-                                    }
-
-                                    .st70 {
-                                        fill: url(#SVGID_56_);
-                                    }
-
-                                    .st71 {
-                                        fill: url(#SVGID_57_);
-                                    }
-
-                                    .st72 {
-                                        fill: url(#SVGID_58_);
-                                    }
-
-                                    .st73 {
-                                        fill: url(#SVGID_59_);
-                                    }
-
-                                    .st74 {
-                                        fill: url(#SVGID_60_);
-                                    }
-
-                                    .st75 {
-                                        fill: url(#SVGID_61_);
-                                    }
-
-                                    .st76 {
-                                        fill: url(#SVGID_62_);
-                                    }
-
-                                    .st77 {
-                                        fill: url(#SVGID_63_);
-                                    }
-
-                                    .st78 {
-                                        fill: url(#SVGID_64_);
-                                    }
-
-                                    .st79 {
-                                        fill: url(#SVGID_65_);
-                                    }
-
-                                    .st80 {
-                                        fill: url(#SVGID_66_);
-                                    }
-
-                                    .st81 {
-                                        fill: url(#SVGID_67_);
-                                    }
-
-                                    .st82 {
-                                        fill: url(#SVGID_68_);
-                                    }
-
-                                    .st83 {
-                                        fill: url(#SVGID_69_);
-                                    }
-
-                                    .st84 {
-                                        fill: url(#SVGID_70_);
-                                    }
-
-                                    .st85 {
-                                        fill: url(#SVGID_71_);
-                                    }
-
-                                    .st86 {
-                                        fill: url(#SVGID_72_);
-                                    }
-
-                                    .st87 {
-                                        fill: url(#SVGID_73_);
-                                    }
-
-                                    .st88 {
-                                        fill: url(#SVGID_74_);
-                                    }
-
-                                    .st89 {
-                                        fill: url(#SVGID_75_);
-                                    }
-
-                                    .st90 {
-                                        fill: url(#SVGID_76_);
-                                    }
-
-                                    .st91 {
-                                        fill: url(#SVGID_77_);
-                                    }
-
-                                    .st92 {
-                                        fill: url(#SVGID_78_);
-                                    }
-
-                                    .st93 {
-                                        fill: url(#SVGID_79_);
-                                    }
-
-                                    .st94 {
-                                        fill: url(#SVGID_80_);
-                                    }
-
-                                    .st95 {
-                                        fill: url(#SVGID_81_);
-                                    }
-
-                                    .st96 {
-                                        fill: url(#SVGID_82_);
-                                    }
-
-                                    .st97 {
-                                        fill: url(#SVGID_83_);
-                                    }
-
-                                    .st98 {
-                                        fill: url(#SVGID_84_);
-                                    }
-
-                                    .st99 {
-                                        fill: url(#SVGID_85_);
-                                    }
-
-                                    .st100 {
-                                        fill: url(#SVGID_86_);
-                                    }
-
-                                    .st101 {
-                                        fill: url(#SVGID_87_);
-                                    }
-
-                                    .st102 {
-                                        fill: url(#SVGID_88_);
-                                    }
-
-                                    .st103 {
-                                        fill: url(#SVGID_89_);
-                                    }
-
-                                    .st104 {
-                                        fill: url(#SVGID_90_);
-                                    }
-
-                                    .st105 {
-                                        fill: url(#SVGID_91_);
-                                    }
-
-                                    .st106 {
-                                        fill: url(#SVGID_92_);
-                                    }
-
-                                    .st107 {
-                                        fill: url(#SVGID_93_);
-                                    }
-
-                                    .st108 {
-                                        fill: url(#SVGID_94_);
-                                    }
-
-                                    .st109 {
-                                        fill: url(#SVGID_95_);
-                                    }
-
-                                    .st110 {
-                                        fill: url(#SVGID_96_);
-                                    }
-
-                                    .st111 {
-                                        fill: url(#SVGID_97_);
-                                    }
-
-                                    .st112 {
-                                        fill: url(#SVGID_98_);
-                                    }
-
-                                    .st113 {
-                                        fill: url(#SVGID_99_);
-                                    }
-
-                                    .st114 {
-                                        fill: #535D88;
-                                    }
-
-                                    .st115 {
-                                        fill: url(#SVGID_100_);
-                                    }
-
-                                    .st116 {
-                                        fill: url(#SVGID_101_);
-                                    }
-
-                                    .st117 {
-                                        fill: url(#SVGID_102_);
-                                    }
-
-                                    .st118 {
-                                        fill: url(#SVGID_103_);
-                                    }
-
-                                    .st119 {
-                                        fill: url(#SVGID_104_);
-                                    }
-
-                                    .st120 {
-                                        fill: url(#SVGID_105_);
-                                    }
-
-                                    .st121 {
-                                        fill: url(#SVGID_106_);
-                                    }
-
-                                    .st122 {
-                                        fill: url(#SVGID_107_);
-                                    }
-
-                                    .st123 {
-                                        fill: url(#SVGID_108_);
-                                    }
-
-                                    .st124 {
-                                        fill: url(#SVGID_109_);
-                                    }
-
-                                    .st125 {
-                                        fill: url(#SVGID_110_);
-                                    }
-
-                                    .st126 {
-                                        fill: url(#SVGID_111_);
-                                    }
-
-                                    .st127 {
-                                        fill: url(#SVGID_112_);
-                                    }
-
-                                    .st128 {
-                                        fill: url(#SVGID_113_);
-                                    }
-
-                                    .st129 {
-                                        fill: url(#SVGID_114_);
-                                    }
-
-                                    .st130 {
-                                        fill: url(#SVGID_115_);
-                                    }
-
-                                    .st131 {
-                                        fill: #2B3C67;
-                                    }
-
-                                    .st132 {
-                                        fill: #8FCCFF;
-                                    }
-
-                                    .st133 {
-                                        fill: #8CA1FD;
-                                    }
-
-                                    .st134 {
-                                        opacity: 0.3;
-                                    }
-
-                                    .st135 {
-                                        fill: url(#SVGID_116_);
-                                    }
-
-                                    .st136 {
-                                        fill: url(#SVGID_117_);
-                                    }
-
-                                    .st137 {
-                                        fill: url(#SVGID_118_);
-                                    }
-
-                                    .st138 {
-                                        fill: url(#SVGID_119_);
-                                    }
-
-                                    .st139 {
-                                        fill: url(#SVGID_120_);
-                                    }
-
-                                    .st140 {
-                                        fill: url(#SVGID_121_);
-                                    }
-
-                                    .st141 {
-                                        fill: url(#SVGID_122_);
-                                    }
-
-                                    .st142 {
-                                        fill: url(#SVGID_123_);
-                                    }
-
-                                    .st143 {
-                                        fill: url(#SVGID_124_);
-                                    }
-
-                                    .st144 {
-                                        opacity: 0.3;
-                                        fill: #4466FB;
-                                    }
-
-                                    .st145 {
-                                        fill: url(#SVGID_125_);
-                                    }
-
-                                    .st146 {
-                                        fill: url(#SVGID_126_);
-                                    }
-
-                                    .st147 {
-                                        fill: url(#SVGID_127_);
-                                    }
-
-                                    .st148 {
-                                        fill: url(#SVGID_128_);
-                                    }
-
-                                    .st149 {
-                                        fill: url(#SVGID_129_);
-                                    }
-
-                                    .st150 {
-                                        fill: url(#SVGID_130_);
-                                    }
-
-                                    .st151 {
-                                        fill: url(#SVGID_131_);
-                                    }
-
-                                    .st152 {
-                                        fill: url(#SVGID_132_);
-                                    }
-
-                                    .st153 {
-                                        fill: url(#SVGID_133_);
-                                    }
-
-                                    .st154 {
-                                        fill: url(#SVGID_134_);
-                                    }
-
-                                    .st155 {
-                                        fill: url(#SVGID_135_);
-                                    }
-
-                                    .st156 {
-                                        fill: url(#SVGID_136_);
-                                    }
-
-                                    .st157 {
-                                        fill: url(#SVGID_137_);
-                                    }
-
-                                    .st158 {
-                                        fill: url(#SVGID_138_);
-                                    }
-
-                                    .st159 {
-                                        fill: url(#SVGID_139_);
-                                    }
-
-                                    .st160 {
-                                        fill: url(#SVGID_140_);
-                                    }
-
-                                    .st161 {
-                                        fill: url(#SVGID_141_);
-                                    }
-
-                                    .st162 {
-                                        fill: url(#SVGID_142_);
-                                    }
-
-                                    .st163 {
-                                        fill: url(#SVGID_143_);
-                                    }
-
-                                    .st164 {
-                                        fill: url(#SVGID_144_);
-                                    }
-
-                                    .st165 {
-                                        fill: url(#SVGID_145_);
-                                    }
-
-                                    .st166 {
-                                        fill: url(#SVGID_146_);
-                                    }
-
-                                    .st167 {
-                                        fill: url(#SVGID_147_);
-                                    }
-
-                                    .st168 {
-                                        fill: url(#SVGID_148_);
-                                    }
-
-                                    .st169 {
-                                        fill: url(#SVGID_149_);
-                                    }
-
-                                    .st170 {
-                                        fill: url(#SVGID_150_);
-                                    }
-
-                                    .st171 {
-                                        fill: url(#SVGID_151_);
-                                    }
-
-                                    .st172 {
-                                        fill: url(#SVGID_152_);
-                                    }
-
-                                    .st173 {
-                                        opacity: 0.2;
-                                    }
-
-                                    .st174 {
-                                        fill: url(#SVGID_153_);
-                                    }
-
-                                    .st175 {
-                                        fill: url(#SVGID_154_);
-                                    }
-
-                                    .st176 {
-                                        fill: url(#SVGID_155_);
-                                    }
-
-                                    .st177 {
-                                        fill: url(#SVGID_156_);
-                                    }
-
-                                    .st178 {
-                                        fill: url(#SVGID_157_);
-                                    }
-
-                                    .st179 {
-                                        fill: url(#SVGID_158_);
-                                    }
-
-                                    .st180 {
-                                        fill: url(#SVGID_159_);
-                                    }
-
-                                    .st181 {
-                                        fill: url(#SVGID_160_);
-                                    }
-
-                                    .st182 {
-                                        fill: url(#SVGID_161_);
-                                    }
-
-                                    .st183 {
-                                        fill: url(#SVGID_162_);
-                                    }
-
-                                    .st184 {
-                                        fill: url(#SVGID_163_);
-                                    }
-
-                                    .st185 {
-                                        fill: url(#SVGID_164_);
-                                    }
-
-                                    .st186 {
-                                        fill: url(#SVGID_165_);
-                                    }
-
-                                    .st187 {
-                                        fill: url(#SVGID_166_);
-                                    }
-
-                                    .st188 {
-                                        fill: url(#SVGID_167_);
-                                    }
-
-                                    .st189 {
-                                        fill: url(#SVGID_168_);
-                                    }
-
-                                    .st190 {
-                                        fill: url(#SVGID_169_);
-                                    }
-
-                                    .st191 {
-                                        fill: url(#SVGID_170_);
-                                    }
-
-                                    .st192 {
-                                        fill: url(#SVGID_171_);
-                                    }
-
-                                    .st193 {
-                                        fill: url(#SVGID_172_);
-                                    }
-
-                                    .st194 {
-                                        fill: url(#SVGID_173_);
-                                    }
-
-                                    .st195 {
-                                        fill: url(#SVGID_174_);
-                                    }
-
-                                    .st196 {
-                                        fill: url(#SVGID_175_);
-                                    }
-
-                                    .st197 {
-                                        fill: url(#SVGID_176_);
-                                    }
-
-                                    .st198 {
-                                        fill: url(#SVGID_177_);
-                                    }
-
-                                    .st199 {
-                                        fill: url(#SVGID_178_);
-                                    }
-
-                                    .st200 {
-                                        fill: url(#SVGID_179_);
-                                    }
-
-                                    .st201 {
-                                        fill: url(#SVGID_180_);
-                                    }
-
-                                    .st202 {
-                                        fill: url(#SVGID_181_);
-                                    }
-
-                                    .st203 {
-                                        fill: url(#SVGID_182_);
-                                    }
-
-                                    .st204 {
-                                        fill: url(#SVGID_183_);
-                                    }
-
-                                    .st205 {
-                                        fill: url(#SVGID_184_);
-                                    }
-
-                                    .st206 {
-                                        fill: url(#SVGID_185_);
-                                    }
-
-                                    .st207 {
-                                        fill: url(#SVGID_186_);
-                                    }
-
-                                    .st208 {
-                                        fill: url(#SVGID_187_);
-                                    }
-
-                                    .st209 {
-                                        fill: url(#SVGID_188_);
-                                    }
-
-                                    .st210 {
-                                        fill: url(#SVGID_189_);
-                                    }
-
-                                    .st211 {
-                                        fill: url(#SVGID_190_);
-                                    }
-
-                                    .st212 {
-                                        fill: url(#SVGID_191_);
-                                    }
-
-                                    .st213 {
-                                        fill: url(#SVGID_192_);
-                                    }
-
-                                    .st214 {
-                                        fill: url(#SVGID_193_);
-                                    }
-
-                                    .st215 {
-                                        fill: url(#SVGID_194_);
-                                    }
-
-                                    .st216 {
-                                        fill: url(#SVGID_195_);
-                                    }
-
-                                    .st217 {
-                                        fill: url(#SVGID_196_);
-                                    }
-
-                                    .st218 {
-                                        fill: url(#SVGID_197_);
-                                    }
-
-                                    .st219 {
-                                        fill: url(#SVGID_198_);
-                                    }
-
-                                    .st220 {
-                                        fill: url(#SVGID_199_);
-                                    }
-
-                                    .st221 {
-                                        fill: url(#SVGID_200_);
-                                    }
-
-                                    .st222 {
-                                        fill: url(#SVGID_201_);
-                                    }
-
-                                    .st223 {
-                                        fill: url(#SVGID_202_);
-                                    }
-
-                                    .st224 {
-                                        fill: url(#SVGID_203_);
-                                    }
-
-                                    .st225 {
-                                        fill: url(#SVGID_204_);
-                                    }
-
-                                    .st226 {
-                                        fill: url(#SVGID_205_);
-                                    }
-
-                                    .st227 {
-                                        fill: url(#SVGID_206_);
-                                    }
-
-                                    .st228 {
-                                        fill: url(#SVGID_207_);
-                                    }
-
-                                    .st229 {
-                                        fill: url(#SVGID_208_);
-                                    }
-
-                                    .st230 {
-                                        fill: url(#SVGID_209_);
-                                    }
-
-                                    .st231 {
-                                        fill: url(#SVGID_210_);
-                                    }
-
-                                    .st232 {
-                                        fill: url(#SVGID_211_);
-                                    }
-
-                                    .st233 {
-                                        fill: url(#SVGID_212_);
-                                    }
-
-                                    .st234 {
-                                        fill: url(#SVGID_213_);
-                                    }
-
-                                    .st235 {
-                                        fill: url(#SVGID_214_);
-                                    }
-
-                                    .st236 {
-                                        fill: url(#SVGID_215_);
-                                    }
-
-                                    .st237 {
-                                        fill: url(#SVGID_216_);
-                                    }
-
-                                    .st238 {
-                                        fill: url(#SVGID_217_);
-                                    }
-
-                                    .st239 {
-                                        fill: url(#SVGID_218_);
-                                    }
-
-                                    .st240 {
-                                        fill: url(#SVGID_219_);
-                                    }
-
-                                    .st241 {
-                                        fill: url(#SVGID_220_);
-                                    }
-
-                                    .st242 {
-                                        fill: url(#SVGID_221_);
-                                    }
-
-                                    .st243 {
-                                        fill: url(#SVGID_222_);
-                                    }
-
-                                    .st244 {
-                                        fill: url(#SVGID_223_);
-                                    }
-
-                                    .st245 {
-                                        fill: url(#SVGID_224_);
-                                    }
-
-                                    .st246 {
-                                        fill: url(#SVGID_225_);
-                                    }
-
-                                    .st247 {
-                                        fill: url(#SVGID_226_);
-                                    }
-
-                                    .st248 {
-                                        fill: url(#SVGID_227_);
-                                    }
-
-                                    .st249 {
-                                        fill: url(#SVGID_228_);
-                                    }
-
-                                    .st250 {
-                                        fill: url(#SVGID_229_);
-                                    }
-
-                                    .st251 {
-                                        fill: url(#SVGID_230_);
-                                    }
-
-                                    .st252 {
-                                        fill: url(#SVGID_231_);
-                                    }
+                                .st0 {
+                                    fill: none;
+                                }
+
+                                .st1 {
+                                    fill: #AABAFD;
+                                }
+
+                                .st2 {
+                                    fill: #B7C5FD;
+                                }
+
+                                .st3 {
+                                    fill: #1B2A4F;
+                                }
+
+                                .st4 {
+                                    fill: #798FFE;
+                                }
+
+                                .st5 {
+                                    fill: #9AADFD;
+                                }
+
+                                .st6 {
+                                    fill: #FFFFFF;
+                                }
+
+                                .st7 {
+                                    fill: #3955D1;
+                                }
+
+                                .st8 {
+                                    fill: #4466FB;
+                                }
+
+                                .st9 {
+                                    fill: #6BB5FB;
+                                }
+
+                                .st10 {
+                                    enable-background: new;
+                                }
+
+                                .st11 {
+                                    fill: url(#SVGID_1_);
+                                }
+
+                                .st12 {
+                                    fill: url(#SVGID_2_);
+                                }
+
+                                .st13 {
+                                    fill: url(#);
+                                }
+
+                                .st14 {
+                                    fill: url(#SVGID_3_);
+                                }
+
+                                .st15 {
+                                    fill: url(#SVGID_4_);
+                                }
+
+                                .st16 {
+                                    fill: url(#SVGID_5_);
+                                }
+
+                                .st17 {
+                                    fill: url(#SVGID_6_);
+                                }
+
+                                .st18 {
+                                    fill: url(#SVGID_7_);
+                                }
+
+                                .st19 {
+                                    fill: #384E85;
+                                }
+
+                                .st20 {
+                                    fill: #2E4277;
+                                }
+
+                                .st21 {
+                                    fill: #D9DDF6;
+                                }
+
+                                .st22 {
+                                    fill: url(#SVGID_8_);
+                                }
+
+                                .st23 {
+                                    fill: url(#SVGID_9_);
+                                }
+
+                                .st24 {
+                                    fill: url(#SVGID_10_);
+                                }
+
+                                .st25 {
+                                    fill: url(#SVGID_11_);
+                                }
+
+                                .st26 {
+                                    fill: url(#SVGID_12_);
+                                }
+
+                                .st27 {
+                                    fill: url(#SVGID_13_);
+                                }
+
+                                .st28 {
+                                    fill: url(#SVGID_14_);
+                                }
+
+                                .st29 {
+                                    fill: url(#SVGID_15_);
+                                }
+
+                                .st30 {
+                                    fill: url(#SVGID_16_);
+                                }
+
+                                .st31 {
+                                    fill: url(#SVGID_17_);
+                                }
+
+                                .st32 {
+                                    fill: url(#SVGID_18_);
+                                }
+
+                                .st33 {
+                                    fill: url(#SVGID_19_);
+                                }
+
+                                .st34 {
+                                    fill: url(#SVGID_20_);
+                                }
+
+                                .st35 {
+                                    fill: url(#SVGID_21_);
+                                }
+
+                                .st36 {
+                                    fill: url(#SVGID_22_);
+                                }
+
+                                .st37 {
+                                    fill: url(#SVGID_23_);
+                                }
+
+                                .st38 {
+                                    fill: url(#SVGID_24_);
+                                }
+
+                                .st39 {
+                                    fill: url(#SVGID_25_);
+                                }
+
+                                .st40 {
+                                    fill: url(#SVGID_26_);
+                                }
+
+                                .st41 {
+                                    fill: url(#SVGID_27_);
+                                }
+
+                                .st42 {
+                                    fill: url(#SVGID_28_);
+                                }
+
+                                .st43 {
+                                    fill: url(#SVGID_29_);
+                                }
+
+                                .st44 {
+                                    fill: url(#SVGID_30_);
+                                }
+
+                                .st45 {
+                                    fill: url(#SVGID_31_);
+                                }
+
+                                .st46 {
+                                    fill: url(#SVGID_32_);
+                                }
+
+                                .st47 {
+                                    fill: url(#SVGID_33_);
+                                }
+
+                                .st48 {
+                                    fill: url(#SVGID_34_);
+                                }
+
+                                .st49 {
+                                    fill: url(#SVGID_35_);
+                                }
+
+                                .st50 {
+                                    fill: url(#SVGID_36_);
+                                }
+
+                                .st51 {
+                                    fill: url(#SVGID_37_);
+                                }
+
+                                .st52 {
+                                    fill: url(#SVGID_38_);
+                                }
+
+                                .st53 {
+                                    fill: url(#SVGID_39_);
+                                }
+
+                                .st54 {
+                                    fill: url(#SVGID_40_);
+                                }
+
+                                .st55 {
+                                    fill: url(#SVGID_41_);
+                                }
+
+                                .st56 {
+                                    fill: url(#SVGID_42_);
+                                }
+
+                                .st57 {
+                                    fill: url(#SVGID_43_);
+                                }
+
+                                .st58 {
+                                    fill: url(#SVGID_44_);
+                                }
+
+                                .st59 {
+                                    fill: url(#SVGID_45_);
+                                }
+
+                                .st60 {
+                                    fill: url(#SVGID_46_);
+                                }
+
+                                .st61 {
+                                    fill: url(#SVGID_47_);
+                                }
+
+                                .st62 {
+                                    fill: url(#SVGID_48_);
+                                }
+
+                                .st63 {
+                                    fill: url(#SVGID_49_);
+                                }
+
+                                .st64 {
+                                    fill: url(#SVGID_50_);
+                                }
+
+                                .st65 {
+                                    fill: url(#SVGID_51_);
+                                }
+
+                                .st66 {
+                                    fill: url(#SVGID_52_);
+                                }
+
+                                .st67 {
+                                    fill: url(#SVGID_53_);
+                                }
+
+                                .st68 {
+                                    fill: url(#SVGID_54_);
+                                }
+
+                                .st69 {
+                                    fill: url(#SVGID_55_);
+                                }
+
+                                .st70 {
+                                    fill: url(#SVGID_56_);
+                                }
+
+                                .st71 {
+                                    fill: url(#SVGID_57_);
+                                }
+
+                                .st72 {
+                                    fill: url(#SVGID_58_);
+                                }
+
+                                .st73 {
+                                    fill: url(#SVGID_59_);
+                                }
+
+                                .st74 {
+                                    fill: url(#SVGID_60_);
+                                }
+
+                                .st75 {
+                                    fill: url(#SVGID_61_);
+                                }
+
+                                .st76 {
+                                    fill: url(#SVGID_62_);
+                                }
+
+                                .st77 {
+                                    fill: url(#SVGID_63_);
+                                }
+
+                                .st78 {
+                                    fill: url(#SVGID_64_);
+                                }
+
+                                .st79 {
+                                    fill: url(#SVGID_65_);
+                                }
+
+                                .st80 {
+                                    fill: url(#SVGID_66_);
+                                }
+
+                                .st81 {
+                                    fill: url(#SVGID_67_);
+                                }
+
+                                .st82 {
+                                    fill: url(#SVGID_68_);
+                                }
+
+                                .st83 {
+                                    fill: url(#SVGID_69_);
+                                }
+
+                                .st84 {
+                                    fill: url(#SVGID_70_);
+                                }
+
+                                .st85 {
+                                    fill: url(#SVGID_71_);
+                                }
+
+                                .st86 {
+                                    fill: url(#SVGID_72_);
+                                }
+
+                                .st87 {
+                                    fill: url(#SVGID_73_);
+                                }
+
+                                .st88 {
+                                    fill: url(#SVGID_74_);
+                                }
+
+                                .st89 {
+                                    fill: url(#SVGID_75_);
+                                }
+
+                                .st90 {
+                                    fill: url(#SVGID_76_);
+                                }
+
+                                .st91 {
+                                    fill: url(#SVGID_77_);
+                                }
+
+                                .st92 {
+                                    fill: url(#SVGID_78_);
+                                }
+
+                                .st93 {
+                                    fill: url(#SVGID_79_);
+                                }
+
+                                .st94 {
+                                    fill: url(#SVGID_80_);
+                                }
+
+                                .st95 {
+                                    fill: url(#SVGID_81_);
+                                }
+
+                                .st96 {
+                                    fill: url(#SVGID_82_);
+                                }
+
+                                .st97 {
+                                    fill: url(#SVGID_83_);
+                                }
+
+                                .st98 {
+                                    fill: url(#SVGID_84_);
+                                }
+
+                                .st99 {
+                                    fill: url(#SVGID_85_);
+                                }
+
+                                .st100 {
+                                    fill: url(#SVGID_86_);
+                                }
+
+                                .st101 {
+                                    fill: url(#SVGID_87_);
+                                }
+
+                                .st102 {
+                                    fill: url(#SVGID_88_);
+                                }
+
+                                .st103 {
+                                    fill: url(#SVGID_89_);
+                                }
+
+                                .st104 {
+                                    fill: url(#SVGID_90_);
+                                }
+
+                                .st105 {
+                                    fill: url(#SVGID_91_);
+                                }
+
+                                .st106 {
+                                    fill: url(#SVGID_92_);
+                                }
+
+                                .st107 {
+                                    fill: url(#SVGID_93_);
+                                }
+
+                                .st108 {
+                                    fill: url(#SVGID_94_);
+                                }
+
+                                .st109 {
+                                    fill: url(#SVGID_95_);
+                                }
+
+                                .st110 {
+                                    fill: url(#SVGID_96_);
+                                }
+
+                                .st111 {
+                                    fill: url(#SVGID_97_);
+                                }
+
+                                .st112 {
+                                    fill: url(#SVGID_98_);
+                                }
+
+                                .st113 {
+                                    fill: url(#SVGID_99_);
+                                }
+
+                                .st114 {
+                                    fill: #535D88;
+                                }
+
+                                .st115 {
+                                    fill: url(#SVGID_100_);
+                                }
+
+                                .st116 {
+                                    fill: url(#SVGID_101_);
+                                }
+
+                                .st117 {
+                                    fill: url(#SVGID_102_);
+                                }
+
+                                .st118 {
+                                    fill: url(#SVGID_103_);
+                                }
+
+                                .st119 {
+                                    fill: url(#SVGID_104_);
+                                }
+
+                                .st120 {
+                                    fill: url(#SVGID_105_);
+                                }
+
+                                .st121 {
+                                    fill: url(#SVGID_106_);
+                                }
+
+                                .st122 {
+                                    fill: url(#SVGID_107_);
+                                }
+
+                                .st123 {
+                                    fill: url(#SVGID_108_);
+                                }
+
+                                .st124 {
+                                    fill: url(#SVGID_109_);
+                                }
+
+                                .st125 {
+                                    fill: url(#SVGID_110_);
+                                }
+
+                                .st126 {
+                                    fill: url(#SVGID_111_);
+                                }
+
+                                .st127 {
+                                    fill: url(#SVGID_112_);
+                                }
+
+                                .st128 {
+                                    fill: url(#SVGID_113_);
+                                }
+
+                                .st129 {
+                                    fill: url(#SVGID_114_);
+                                }
+
+                                .st130 {
+                                    fill: url(#SVGID_115_);
+                                }
+
+                                .st131 {
+                                    fill: #2B3C67;
+                                }
+
+                                .st132 {
+                                    fill: #8FCCFF;
+                                }
+
+                                .st133 {
+                                    fill: #8CA1FD;
+                                }
+
+                                .st134 {
+                                    opacity: 0.3;
+                                }
+
+                                .st135 {
+                                    fill: url(#SVGID_116_);
+                                }
+
+                                .st136 {
+                                    fill: url(#SVGID_117_);
+                                }
+
+                                .st137 {
+                                    fill: url(#SVGID_118_);
+                                }
+
+                                .st138 {
+                                    fill: url(#SVGID_119_);
+                                }
+
+                                .st139 {
+                                    fill: url(#SVGID_120_);
+                                }
+
+                                .st140 {
+                                    fill: url(#SVGID_121_);
+                                }
+
+                                .st141 {
+                                    fill: url(#SVGID_122_);
+                                }
+
+                                .st142 {
+                                    fill: url(#SVGID_123_);
+                                }
+
+                                .st143 {
+                                    fill: url(#SVGID_124_);
+                                }
+
+                                .st144 {
+                                    opacity: 0.3;
+                                    fill: #4466FB;
+                                }
+
+                                .st145 {
+                                    fill: url(#SVGID_125_);
+                                }
+
+                                .st146 {
+                                    fill: url(#SVGID_126_);
+                                }
+
+                                .st147 {
+                                    fill: url(#SVGID_127_);
+                                }
+
+                                .st148 {
+                                    fill: url(#SVGID_128_);
+                                }
+
+                                .st149 {
+                                    fill: url(#SVGID_129_);
+                                }
+
+                                .st150 {
+                                    fill: url(#SVGID_130_);
+                                }
+
+                                .st151 {
+                                    fill: url(#SVGID_131_);
+                                }
+
+                                .st152 {
+                                    fill: url(#SVGID_132_);
+                                }
+
+                                .st153 {
+                                    fill: url(#SVGID_133_);
+                                }
+
+                                .st154 {
+                                    fill: url(#SVGID_134_);
+                                }
+
+                                .st155 {
+                                    fill: url(#SVGID_135_);
+                                }
+
+                                .st156 {
+                                    fill: url(#SVGID_136_);
+                                }
+
+                                .st157 {
+                                    fill: url(#SVGID_137_);
+                                }
+
+                                .st158 {
+                                    fill: url(#SVGID_138_);
+                                }
+
+                                .st159 {
+                                    fill: url(#SVGID_139_);
+                                }
+
+                                .st160 {
+                                    fill: url(#SVGID_140_);
+                                }
+
+                                .st161 {
+                                    fill: url(#SVGID_141_);
+                                }
+
+                                .st162 {
+                                    fill: url(#SVGID_142_);
+                                }
+
+                                .st163 {
+                                    fill: url(#SVGID_143_);
+                                }
+
+                                .st164 {
+                                    fill: url(#SVGID_144_);
+                                }
+
+                                .st165 {
+                                    fill: url(#SVGID_145_);
+                                }
+
+                                .st166 {
+                                    fill: url(#SVGID_146_);
+                                }
+
+                                .st167 {
+                                    fill: url(#SVGID_147_);
+                                }
+
+                                .st168 {
+                                    fill: url(#SVGID_148_);
+                                }
+
+                                .st169 {
+                                    fill: url(#SVGID_149_);
+                                }
+
+                                .st170 {
+                                    fill: url(#SVGID_150_);
+                                }
+
+                                .st171 {
+                                    fill: url(#SVGID_151_);
+                                }
+
+                                .st172 {
+                                    fill: url(#SVGID_152_);
+                                }
+
+                                .st173 {
+                                    opacity: 0.2;
+                                }
+
+                                .st174 {
+                                    fill: url(#SVGID_153_);
+                                }
+
+                                .st175 {
+                                    fill: url(#SVGID_154_);
+                                }
+
+                                .st176 {
+                                    fill: url(#SVGID_155_);
+                                }
+
+                                .st177 {
+                                    fill: url(#SVGID_156_);
+                                }
+
+                                .st178 {
+                                    fill: url(#SVGID_157_);
+                                }
+
+                                .st179 {
+                                    fill: url(#SVGID_158_);
+                                }
+
+                                .st180 {
+                                    fill: url(#SVGID_159_);
+                                }
+
+                                .st181 {
+                                    fill: url(#SVGID_160_);
+                                }
+
+                                .st182 {
+                                    fill: url(#SVGID_161_);
+                                }
+
+                                .st183 {
+                                    fill: url(#SVGID_162_);
+                                }
+
+                                .st184 {
+                                    fill: url(#SVGID_163_);
+                                }
+
+                                .st185 {
+                                    fill: url(#SVGID_164_);
+                                }
+
+                                .st186 {
+                                    fill: url(#SVGID_165_);
+                                }
+
+                                .st187 {
+                                    fill: url(#SVGID_166_);
+                                }
+
+                                .st188 {
+                                    fill: url(#SVGID_167_);
+                                }
+
+                                .st189 {
+                                    fill: url(#SVGID_168_);
+                                }
+
+                                .st190 {
+                                    fill: url(#SVGID_169_);
+                                }
+
+                                .st191 {
+                                    fill: url(#SVGID_170_);
+                                }
+
+                                .st192 {
+                                    fill: url(#SVGID_171_);
+                                }
+
+                                .st193 {
+                                    fill: url(#SVGID_172_);
+                                }
+
+                                .st194 {
+                                    fill: url(#SVGID_173_);
+                                }
+
+                                .st195 {
+                                    fill: url(#SVGID_174_);
+                                }
+
+                                .st196 {
+                                    fill: url(#SVGID_175_);
+                                }
+
+                                .st197 {
+                                    fill: url(#SVGID_176_);
+                                }
+
+                                .st198 {
+                                    fill: url(#SVGID_177_);
+                                }
+
+                                .st199 {
+                                    fill: url(#SVGID_178_);
+                                }
+
+                                .st200 {
+                                    fill: url(#SVGID_179_);
+                                }
+
+                                .st201 {
+                                    fill: url(#SVGID_180_);
+                                }
+
+                                .st202 {
+                                    fill: url(#SVGID_181_);
+                                }
+
+                                .st203 {
+                                    fill: url(#SVGID_182_);
+                                }
+
+                                .st204 {
+                                    fill: url(#SVGID_183_);
+                                }
+
+                                .st205 {
+                                    fill: url(#SVGID_184_);
+                                }
+
+                                .st206 {
+                                    fill: url(#SVGID_185_);
+                                }
+
+                                .st207 {
+                                    fill: url(#SVGID_186_);
+                                }
+
+                                .st208 {
+                                    fill: url(#SVGID_187_);
+                                }
+
+                                .st209 {
+                                    fill: url(#SVGID_188_);
+                                }
+
+                                .st210 {
+                                    fill: url(#SVGID_189_);
+                                }
+
+                                .st211 {
+                                    fill: url(#SVGID_190_);
+                                }
+
+                                .st212 {
+                                    fill: url(#SVGID_191_);
+                                }
+
+                                .st213 {
+                                    fill: url(#SVGID_192_);
+                                }
+
+                                .st214 {
+                                    fill: url(#SVGID_193_);
+                                }
+
+                                .st215 {
+                                    fill: url(#SVGID_194_);
+                                }
+
+                                .st216 {
+                                    fill: url(#SVGID_195_);
+                                }
+
+                                .st217 {
+                                    fill: url(#SVGID_196_);
+                                }
+
+                                .st218 {
+                                    fill: url(#SVGID_197_);
+                                }
+
+                                .st219 {
+                                    fill: url(#SVGID_198_);
+                                }
+
+                                .st220 {
+                                    fill: url(#SVGID_199_);
+                                }
+
+                                .st221 {
+                                    fill: url(#SVGID_200_);
+                                }
+
+                                .st222 {
+                                    fill: url(#SVGID_201_);
+                                }
+
+                                .st223 {
+                                    fill: url(#SVGID_202_);
+                                }
+
+                                .st224 {
+                                    fill: url(#SVGID_203_);
+                                }
+
+                                .st225 {
+                                    fill: url(#SVGID_204_);
+                                }
+
+                                .st226 {
+                                    fill: url(#SVGID_205_);
+                                }
+
+                                .st227 {
+                                    fill: url(#SVGID_206_);
+                                }
+
+                                .st228 {
+                                    fill: url(#SVGID_207_);
+                                }
+
+                                .st229 {
+                                    fill: url(#SVGID_208_);
+                                }
+
+                                .st230 {
+                                    fill: url(#SVGID_209_);
+                                }
+
+                                .st231 {
+                                    fill: url(#SVGID_210_);
+                                }
+
+                                .st232 {
+                                    fill: url(#SVGID_211_);
+                                }
+
+                                .st233 {
+                                    fill: url(#SVGID_212_);
+                                }
+
+                                .st234 {
+                                    fill: url(#SVGID_213_);
+                                }
+
+                                .st235 {
+                                    fill: url(#SVGID_214_);
+                                }
+
+                                .st236 {
+                                    fill: url(#SVGID_215_);
+                                }
+
+                                .st237 {
+                                    fill: url(#SVGID_216_);
+                                }
+
+                                .st238 {
+                                    fill: url(#SVGID_217_);
+                                }
+
+                                .st239 {
+                                    fill: url(#SVGID_218_);
+                                }
+
+                                .st240 {
+                                    fill: url(#SVGID_219_);
+                                }
+
+                                .st241 {
+                                    fill: url(#SVGID_220_);
+                                }
+
+                                .st242 {
+                                    fill: url(#SVGID_221_);
+                                }
+
+                                .st243 {
+                                    fill: url(#SVGID_222_);
+                                }
+
+                                .st244 {
+                                    fill: url(#SVGID_223_);
+                                }
+
+                                .st245 {
+                                    fill: url(#SVGID_224_);
+                                }
+
+                                .st246 {
+                                    fill: url(#SVGID_225_);
+                                }
+
+                                .st247 {
+                                    fill: url(#SVGID_226_);
+                                }
+
+                                .st248 {
+                                    fill: url(#SVGID_227_);
+                                }
+
+                                .st249 {
+                                    fill: url(#SVGID_228_);
+                                }
+
+                                .st250 {
+                                    fill: url(#SVGID_229_);
+                                }
+
+                                .st251 {
+                                    fill: url(#SVGID_230_);
+                                }
+
+                                .st252 {
+                                    fill: url(#SVGID_231_);
+                                }
                                 </style>
                                 <pattern height="32.25219" id="Unnamed_Pattern_11" patternUnits="userSpaceOnUse"
                                     style="overflow:visible;" viewBox="0 -32.25219 32.25219 32.25219" width="32.25219">
@@ -2466,6 +2466,12 @@
 
                 <h2 class="section-title">Projects</h2>
 
+                <p>
+                    The team has a track record of delivering successful IT projects for a wide range of clients. We
+                    have the skills and experience to bring your project from concept to launch, ensuring that it meets
+                    your specific needs and goals.
+                </p>
+
             </div>
 
         </section>
@@ -2476,9 +2482,323 @@
 
                 <h2 class="section-title">Meet the Team</h2>
 
+                <p>
+                    Meet the group of highly qualified professionals who are dedicated to delivering top-quality IT
+                    solutions and services. Our group has a wide range of expertise, including custom software
+                    development, network design, and system maintenance and support. We are passionate about helping our
+                    clients succeed and are committed to delivering results that exceed their expectations. Get to know
+                    us and discover how we can help you achieve your goals.
+                </p>
+
+                <div class="team-contentContainerMembers">
+
+
+                    <div class="member-card">
+
+                        <img src="https://images.pexels.com/photos/5689163/pexels-photo-5689163.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                            alt="">
+
+                        <div class="member-info">
+
+                            <label class="title" for="title">Founder</label>
+
+                            <label class="name" for="name">Kaleb Carrington</label>
+
+                            <div class="member-social">
+
+                                <a href="">
+
+                                    <svg enable-background="new 0 0 56.693 56.693" height="56.693px" id="Layer_1"
+                                        version="1.1" viewBox="0 0 56.693 56.693" width="56.693px" xml:space="preserve"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <path
+                                            d="M40.43,21.739h-7.645v-5.014c0-1.883,1.248-2.322,2.127-2.322c0.877,0,5.395,0,5.395,0V6.125l-7.43-0.029  c-8.248,0-10.125,6.174-10.125,10.125v5.518h-4.77v8.53h4.77c0,10.947,0,24.137,0,24.137h10.033c0,0,0-13.32,0-24.137h6.77  L40.43,21.739z" />
+                                    </svg>
+
+                                </a>
+
+                                <a href="">
+
+                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                        viewBox="0 0 56.7 56.7" enable-background="new 0 0 56.7 56.7"
+                                        xml:space="preserve">
+                                        <g>
+                                            <path d="M28.2,16.7c-7,0-12.8,5.7-12.8,12.8s5.7,12.8,12.8,12.8S41,36.5,41,29.5S35.2,16.7,28.2,16.7z M28.2,37.7
+        c-4.5,0-8.2-3.7-8.2-8.2s3.7-8.2,8.2-8.2s8.2,3.7,8.2,8.2S32.7,37.7,28.2,37.7z" />
+                                            <circle cx="41.5" cy="16.4" r="2.9" />
+                                            <path d="M49,8.9c-2.6-2.7-6.3-4.1-10.5-4.1H17.9c-8.7,0-14.5,5.8-14.5,14.5v20.5c0,4.3,1.4,8,4.2,10.7c2.7,2.6,6.3,3.9,10.4,3.9
+        h20.4c4.3,0,7.9-1.4,10.5-3.9c2.7-2.6,4.1-6.3,4.1-10.6V19.3C53,15.1,51.6,11.5,49,8.9z M48.6,39.9c0,3.1-1.1,5.6-2.9,7.3
+        s-4.3,2.6-7.3,2.6H18c-3,0-5.5-0.9-7.3-2.6C8.9,45.4,8,42.9,8,39.8V19.3c0-3,0.9-5.5,2.7-7.3c1.7-1.7,4.3-2.6,7.3-2.6h20.6
+        c3,0,5.5,0.9,7.3,2.7c1.7,1.8,2.7,4.3,2.7,7.2V39.9L48.6,39.9z" />
+                                        </g>
+                                    </svg>
+
+
+                                </a>
+
+                                <a href="">
+
+                                    <!DOCTYPE svg
+                                        PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+                                    <svg height="100%"
+                                        style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+                                        version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <path
+                                            d="M373.295,307.064c-6.37,-3.188 -37.687,-18.596 -43.526,-20.724c-5.838,-2.126 -10.084,-3.187 -14.331,3.188c-4.246,6.376 -16.454,20.725 -20.17,24.976c-3.715,4.251 -7.431,4.785 -13.8,1.594c-6.37,-3.187 -26.895,-9.913 -51.225,-31.616c-18.935,-16.89 -31.72,-37.749 -35.435,-44.126c-3.716,-6.377 -0.397,-9.824 2.792,-13c2.867,-2.854 6.371,-7.44 9.555,-11.16c3.186,-3.718 4.247,-6.377 6.37,-10.626c2.123,-4.252 1.062,-7.971 -0.532,-11.159c-1.591,-3.188 -14.33,-34.542 -19.638,-47.298c-5.171,-12.419 -10.422,-10.737 -14.332,-10.934c-3.711,-0.184 -7.963,-0.223 -12.208,-0.223c-4.246,0 -11.148,1.594 -16.987,7.969c-5.838,6.377 -22.293,21.789 -22.293,53.14c0,31.355 22.824,61.642 26.009,65.894c3.185,4.252 44.916,68.59 108.816,96.181c15.196,6.564 27.062,10.483 36.312,13.418c15.259,4.849 29.145,4.165 40.121,2.524c12.238,-1.827 37.686,-15.408 42.995,-30.286c5.307,-14.882 5.307,-27.635 3.715,-30.292c-1.592,-2.657 -5.838,-4.251 -12.208,-7.44m-116.224,158.693l-0.086,0c-38.022,-0.015 -75.313,-10.23 -107.845,-29.535l-7.738,-4.592l-80.194,21.037l21.405,-78.19l-5.037,-8.017c-21.211,-33.735 -32.414,-72.726 -32.397,-112.763c0.047,-116.825 95.1,-211.87 211.976,-211.87c56.595,0.019 109.795,22.088 149.801,62.139c40.005,40.05 62.023,93.286 62.001,149.902c-0.048,116.834 -95.1,211.889 -211.886,211.889m180.332,-392.224c-48.131,-48.186 -112.138,-74.735 -180.335,-74.763c-140.514,0 -254.875,114.354 -254.932,254.911c-0.018,44.932 11.72,88.786 34.03,127.448l-36.166,132.102l135.141,-35.45c37.236,20.31 79.159,31.015 121.826,31.029l0.105,0c140.499,0 254.87,-114.366 254.928,-254.925c0.026,-68.117 -26.467,-132.166 -74.597,-180.352"
+                                            id="WhatsApp-Logo" />
+                                    </svg>
+
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="member-card">
+
+                        <img src="https://images.pexels.com/photos/7368063/pexels-photo-7368063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="">
+
+                        <div class="member-info">
+
+                            <label class="title" for="title">Co-Founder</label>
+
+                            <label class="name" for="name">Aldraian Clairmont</label>
+
+                            <div class="member-social">
+
+                                <a href="">
+
+                                    <svg enable-background="new 0 0 56.693 56.693" height="56.693px" id="Layer_1"
+                                        version="1.1" viewBox="0 0 56.693 56.693" width="56.693px" xml:space="preserve"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <path
+                                            d="M40.43,21.739h-7.645v-5.014c0-1.883,1.248-2.322,2.127-2.322c0.877,0,5.395,0,5.395,0V6.125l-7.43-0.029  c-8.248,0-10.125,6.174-10.125,10.125v5.518h-4.77v8.53h4.77c0,10.947,0,24.137,0,24.137h10.033c0,0,0-13.32,0-24.137h6.77  L40.43,21.739z" />
+                                    </svg>
+
+                                </a>
+
+                                <a href="">
+
+                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                        viewBox="0 0 56.7 56.7" enable-background="new 0 0 56.7 56.7"
+                                        xml:space="preserve">
+                                        <g>
+                                            <path d="M28.2,16.7c-7,0-12.8,5.7-12.8,12.8s5.7,12.8,12.8,12.8S41,36.5,41,29.5S35.2,16.7,28.2,16.7z M28.2,37.7
+        c-4.5,0-8.2-3.7-8.2-8.2s3.7-8.2,8.2-8.2s8.2,3.7,8.2,8.2S32.7,37.7,28.2,37.7z" />
+                                            <circle cx="41.5" cy="16.4" r="2.9" />
+                                            <path d="M49,8.9c-2.6-2.7-6.3-4.1-10.5-4.1H17.9c-8.7,0-14.5,5.8-14.5,14.5v20.5c0,4.3,1.4,8,4.2,10.7c2.7,2.6,6.3,3.9,10.4,3.9
+        h20.4c4.3,0,7.9-1.4,10.5-3.9c2.7-2.6,4.1-6.3,4.1-10.6V19.3C53,15.1,51.6,11.5,49,8.9z M48.6,39.9c0,3.1-1.1,5.6-2.9,7.3
+        s-4.3,2.6-7.3,2.6H18c-3,0-5.5-0.9-7.3-2.6C8.9,45.4,8,42.9,8,39.8V19.3c0-3,0.9-5.5,2.7-7.3c1.7-1.7,4.3-2.6,7.3-2.6h20.6
+        c3,0,5.5,0.9,7.3,2.7c1.7,1.8,2.7,4.3,2.7,7.2V39.9L48.6,39.9z" />
+                                        </g>
+                                    </svg>
+
+
+                                </a>
+
+                                <a href="">
+
+                                    <!DOCTYPE svg
+                                        PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+                                    <svg height="100%"
+                                        style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+                                        version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <path
+                                            d="M373.295,307.064c-6.37,-3.188 -37.687,-18.596 -43.526,-20.724c-5.838,-2.126 -10.084,-3.187 -14.331,3.188c-4.246,6.376 -16.454,20.725 -20.17,24.976c-3.715,4.251 -7.431,4.785 -13.8,1.594c-6.37,-3.187 -26.895,-9.913 -51.225,-31.616c-18.935,-16.89 -31.72,-37.749 -35.435,-44.126c-3.716,-6.377 -0.397,-9.824 2.792,-13c2.867,-2.854 6.371,-7.44 9.555,-11.16c3.186,-3.718 4.247,-6.377 6.37,-10.626c2.123,-4.252 1.062,-7.971 -0.532,-11.159c-1.591,-3.188 -14.33,-34.542 -19.638,-47.298c-5.171,-12.419 -10.422,-10.737 -14.332,-10.934c-3.711,-0.184 -7.963,-0.223 -12.208,-0.223c-4.246,0 -11.148,1.594 -16.987,7.969c-5.838,6.377 -22.293,21.789 -22.293,53.14c0,31.355 22.824,61.642 26.009,65.894c3.185,4.252 44.916,68.59 108.816,96.181c15.196,6.564 27.062,10.483 36.312,13.418c15.259,4.849 29.145,4.165 40.121,2.524c12.238,-1.827 37.686,-15.408 42.995,-30.286c5.307,-14.882 5.307,-27.635 3.715,-30.292c-1.592,-2.657 -5.838,-4.251 -12.208,-7.44m-116.224,158.693l-0.086,0c-38.022,-0.015 -75.313,-10.23 -107.845,-29.535l-7.738,-4.592l-80.194,21.037l21.405,-78.19l-5.037,-8.017c-21.211,-33.735 -32.414,-72.726 -32.397,-112.763c0.047,-116.825 95.1,-211.87 211.976,-211.87c56.595,0.019 109.795,22.088 149.801,62.139c40.005,40.05 62.023,93.286 62.001,149.902c-0.048,116.834 -95.1,211.889 -211.886,211.889m180.332,-392.224c-48.131,-48.186 -112.138,-74.735 -180.335,-74.763c-140.514,0 -254.875,114.354 -254.932,254.911c-0.018,44.932 11.72,88.786 34.03,127.448l-36.166,132.102l135.141,-35.45c37.236,20.31 79.159,31.015 121.826,31.029l0.105,0c140.499,0 254.87,-114.366 254.928,-254.925c0.026,-68.117 -26.467,-132.166 -74.597,-180.352"
+                                            id="WhatsApp-Logo" />
+                                    </svg>
+
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="member-card">
+
+                        <img src="https://images.pexels.com/photos/2820593/pexels-photo-2820593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                            alt="">
+
+                        <div class="member-info">
+
+                            <label class="title" for="title">Operations Manager</label>
+
+                            <label class="name" for="name">Nataliyah Johnson</label>
+
+                            <div class="member-social">
+
+                                <a href="">
+
+                                    <svg enable-background="new 0 0 56.693 56.693" height="56.693px" id="Layer_1"
+                                        version="1.1" viewBox="0 0 56.693 56.693" width="56.693px" xml:space="preserve"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <path
+                                            d="M40.43,21.739h-7.645v-5.014c0-1.883,1.248-2.322,2.127-2.322c0.877,0,5.395,0,5.395,0V6.125l-7.43-0.029  c-8.248,0-10.125,6.174-10.125,10.125v5.518h-4.77v8.53h4.77c0,10.947,0,24.137,0,24.137h10.033c0,0,0-13.32,0-24.137h6.77  L40.43,21.739z" />
+                                    </svg>
+
+                                </a>
+
+                                <a href="">
+
+                                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                        viewBox="0 0 56.7 56.7" enable-background="new 0 0 56.7 56.7"
+                                        xml:space="preserve">
+                                        <g>
+                                            <path d="M28.2,16.7c-7,0-12.8,5.7-12.8,12.8s5.7,12.8,12.8,12.8S41,36.5,41,29.5S35.2,16.7,28.2,16.7z M28.2,37.7
+        c-4.5,0-8.2-3.7-8.2-8.2s3.7-8.2,8.2-8.2s8.2,3.7,8.2,8.2S32.7,37.7,28.2,37.7z" />
+                                            <circle cx="41.5" cy="16.4" r="2.9" />
+                                            <path d="M49,8.9c-2.6-2.7-6.3-4.1-10.5-4.1H17.9c-8.7,0-14.5,5.8-14.5,14.5v20.5c0,4.3,1.4,8,4.2,10.7c2.7,2.6,6.3,3.9,10.4,3.9
+        h20.4c4.3,0,7.9-1.4,10.5-3.9c2.7-2.6,4.1-6.3,4.1-10.6V19.3C53,15.1,51.6,11.5,49,8.9z M48.6,39.9c0,3.1-1.1,5.6-2.9,7.3
+        s-4.3,2.6-7.3,2.6H18c-3,0-5.5-0.9-7.3-2.6C8.9,45.4,8,42.9,8,39.8V19.3c0-3,0.9-5.5,2.7-7.3c1.7-1.7,4.3-2.6,7.3-2.6h20.6
+        c3,0,5.5,0.9,7.3,2.7c1.7,1.8,2.7,4.3,2.7,7.2V39.9L48.6,39.9z" />
+                                        </g>
+                                    </svg>
+
+
+                                </a>
+
+                                <a href="">
+
+                                    <!DOCTYPE svg
+                                        PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+                                    <svg height="100%"
+                                        style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+                                        version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"
+                                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <path
+                                            d="M373.295,307.064c-6.37,-3.188 -37.687,-18.596 -43.526,-20.724c-5.838,-2.126 -10.084,-3.187 -14.331,3.188c-4.246,6.376 -16.454,20.725 -20.17,24.976c-3.715,4.251 -7.431,4.785 -13.8,1.594c-6.37,-3.187 -26.895,-9.913 -51.225,-31.616c-18.935,-16.89 -31.72,-37.749 -35.435,-44.126c-3.716,-6.377 -0.397,-9.824 2.792,-13c2.867,-2.854 6.371,-7.44 9.555,-11.16c3.186,-3.718 4.247,-6.377 6.37,-10.626c2.123,-4.252 1.062,-7.971 -0.532,-11.159c-1.591,-3.188 -14.33,-34.542 -19.638,-47.298c-5.171,-12.419 -10.422,-10.737 -14.332,-10.934c-3.711,-0.184 -7.963,-0.223 -12.208,-0.223c-4.246,0 -11.148,1.594 -16.987,7.969c-5.838,6.377 -22.293,21.789 -22.293,53.14c0,31.355 22.824,61.642 26.009,65.894c3.185,4.252 44.916,68.59 108.816,96.181c15.196,6.564 27.062,10.483 36.312,13.418c15.259,4.849 29.145,4.165 40.121,2.524c12.238,-1.827 37.686,-15.408 42.995,-30.286c5.307,-14.882 5.307,-27.635 3.715,-30.292c-1.592,-2.657 -5.838,-4.251 -12.208,-7.44m-116.224,158.693l-0.086,0c-38.022,-0.015 -75.313,-10.23 -107.845,-29.535l-7.738,-4.592l-80.194,21.037l21.405,-78.19l-5.037,-8.017c-21.211,-33.735 -32.414,-72.726 -32.397,-112.763c0.047,-116.825 95.1,-211.87 211.976,-211.87c56.595,0.019 109.795,22.088 149.801,62.139c40.005,40.05 62.023,93.286 62.001,149.902c-0.048,116.834 -95.1,211.889 -211.886,211.889m180.332,-392.224c-48.131,-48.186 -112.138,-74.735 -180.335,-74.763c-140.514,0 -254.875,114.354 -254.932,254.911c-0.018,44.932 11.72,88.786 34.03,127.448l-36.166,132.102l135.141,-35.45c37.236,20.31 79.159,31.015 121.826,31.029l0.105,0c140.499,0 254.87,-114.366 254.928,-254.925c0.026,-68.117 -26.467,-132.166 -74.597,-180.352"
+                                            id="WhatsApp-Logo" />
+                                    </svg>
+
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
             </div>
 
         </section>
+
+        <footer class="footer">
+
+            <div class="container">
+
+                <div class="footer-contentContainer">
+
+                    <div class="footer-contentContainerCompanyInfo">
+
+                        <img class="brand" src="/assets/img/logo-b-trans.png" alt="footer logo">
+
+                        <p>
+                            #25 FLAMINGO BOULEVARD, PH.4, SEC 1, ARIMA, TT, 000000
+                        </p>
+
+                        <label>
+                            <strong>Phone:</strong> +1 868 730 9322
+                        </label>
+
+                        <label>
+                            <strong>Email:</strong> serlink.business@outlook.com
+                        </label>
+
+                    </div>
+
+                    <div class="footer-nav">
+
+                        <h3>Useful Links</h3>
+
+                        <ul>
+
+                            <li>
+                                <a href="">Home</a>
+                            </li>
+
+                            <li>
+                                <a href="">About</a>
+                            </li>
+
+                            <li>
+                                <a href="">Services</a>
+                            </li>
+
+                            <li>
+                                <a href="">Terms of Service</a>
+                            </li>
+
+                            <li>
+                                <a href="">Privacy Policy</a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                    <div class="footer-nav">
+
+                        <h3>Our Services</h3>
+
+                        <ul>
+
+                            <li>
+                                <a href="">Web Design</a>
+                            </li>
+
+                            <li>
+                                <a href="">Web Development</a>
+                            </li>
+
+                            <li>
+                                <a href="">Graphic Design</a>
+                            </li>
+
+                            <li>
+                                <a href="">IT Networking</a>
+                            </li>
+
+                            <li>
+                                <a href="">Repair and Maintenance</a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                    <div class="footer-social">
+
+                        <h3>Connect with Us</h3>
+
+                        <p>
+                            Stay up-to-date with our latest projects and industry news by following us on social media.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <p id="copyright">copyright © Serlink 2022-2023 | All rights reserved</p>
+
+        </footer>
 
     </body>
 
