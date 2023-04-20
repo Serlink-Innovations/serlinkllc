@@ -24,6 +24,7 @@
 
     p {
       line-height: 1.5;
+      font-size: clamp(0.8rem, 3vw, 1rem);
     }
 
     .hero-buttonContainer {

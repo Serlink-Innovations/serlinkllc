@@ -84,6 +84,7 @@
 }
 .hero .hero-innterContentContainer p {
   line-height: 1.5;
+  font-size: clamp(0.8rem, 3vw, 1rem);
 }
 .hero .hero-innterContentContainer .hero-buttonContainer {
   display: flex;
@@ -230,6 +231,7 @@ meter {
   border-radius: 100vmax;
   cursor: pointer;
   display: inline-grid;
+  font-size: clamp(0.8rem, 4vw, 1rem);
   padding: 0.8rem 1rem;
 }
 
@@ -244,6 +246,54 @@ meter {
 
 .btn-primary-outlined {
   border: 2px solid var(--primary);
+}
+
+.card {
+  border-radius: 1rem;
+  max-width: 250px;
+  height: auto;
+  padding: 1rem;
+  position: relative;
+  transition: ease-in-out 0.5s;
+}
+.card .card-header {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}
+.card .card-header h3 {
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  text-align: left;
+}
+.card .card-header svg {
+  width: 64px;
+  height: 64px;
+}
+.card .card-body {
+  text-align: left;
+  padding-block: 1rem;
+}
+.card .card-body p {
+  font-size: clamp(0.8rem, 8vw, 0.95rem);
+}
+.card .card-footer {
+  display: flex;
+}
+.card .card-footer label {
+  color: rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+  font-size: clamp(1.5rem, 10vw, 3rem);
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: #f0f8ff;
+  transition: ease-in-out 0.5s;
+}
+.card:hover .card-footer label {
+  text-shadow: 3px 3px 0 var(--primary);
+  transition: ease-in-out 0.5s;
 }
 
 .container {
@@ -268,6 +318,37 @@ meter {
     width: 1170px;
   }
 }
+.section-title {
+  font-family: inherit;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 0.6rem;
+}
+
+.section-title::before {
+  content: "";
+  width: 6rem;
+  height: 0.15rem;
+  background-color: #000;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.03em;
+}
+
+.section-title::after {
+  content: "";
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #af9a7e;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.065em;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -280,16 +361,25 @@ body {
   letter-spacing: 1px;
 }
 
-.about-contentContainer {
+.about-contentContainer,
+.services-contentContainer,
+.projects-contentContainer,
+.team-contentContainer {
   margin-block: 2rem;
+  padding-block: 2rem;
 }
-.about-contentContainer h2 {
+.about-contentContainer h2,
+.services-contentContainer h2,
+.projects-contentContainer h2,
+.team-contentContainer h2 {
   color: var(--primary);
-  font-size: 2em;
-  font-family: inherit;
-  font-weight: bold;
+  font-size: clamp(1rem, 6vw, 1.6rem);
+  font-variant: small-caps;
   text-align: center;
-  padding-block: 1rem;
+}
+
+.about-contentContainer {
+  color: #000;
 }
 .about-contentContainer .about-contentContainerRow {
   display: grid;
@@ -306,4 +396,26 @@ body {
 }
 .about-contentContainer .about-contentContainerRow ul li {
   padding-bottom: 1rem;
+}
+
+.services-contentContainer {
+  display: grid;
+}
+.services-contentContainer h3 {
+  font-size: clamp(0.8rem, 6vw, 1.5rem);
+  text-align: center;
+  margin-block: 1rem;
+}
+.services-contentContainer p {
+  line-height: 1.5;
+}
+.services-contentContainer .services-serviceCardTray {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  place-items: center;
+  margin-block: 2rem;
+}
+
+.projects-contentContainer {
+  background-color: #f0f8ff;
 }/*# sourceMappingURL=style.css.map */
