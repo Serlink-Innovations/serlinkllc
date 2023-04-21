@@ -2481,7 +2481,7 @@
 
                     </div>
 
-                    <div class="project-card" onclick="location.href='https://bosawas.serlink.ml';">
+                    <div class="project-card" onclick="location.href='https://merry-madeleine-86e419.netlify.app/';">
 
                         <img src="https://bl3302files.storage.live.com/y4mAj7xpdIdlyb4rsXw-vONIutP1WktRsdpKr5qxoW0XrtQ8BeJsL4TTFE5NCD-VRqahMMWXia1bRNnc3fgCM99Y32aYvAAFjGQpgxH32WeBpE-EF8wzxhLIR_rNG29asCU3WvrUtU-q3TjgiBTVPjxFTFNIAGs1wWFnIkcmC2yLhqdlhof5wsqxX7g0A542TlU?width=500&height=500&cropmode=none"
                             alt="">
