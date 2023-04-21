@@ -262,7 +262,8 @@ meter {
   gap: 1rem;
 }
 .card .card-header h3 {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
+  font-weight: bold;
   letter-spacing: 1px;
   text-align: left;
 }
@@ -275,7 +276,7 @@ meter {
   padding-block: 1rem;
 }
 .card .card-body p {
-  font-size: clamp(0.8rem, 8vw, 0.95rem);
+  font-size: clamp(0.8rem, 8vw, 0.85rem);
 }
 .card .card-footer {
   display: flex;

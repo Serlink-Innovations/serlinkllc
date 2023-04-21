@@ -241,7 +241,7 @@
                                     fill="#FFFFFF" id="Website_1_"></path>
                             </svg>
 
-                            <h3 class="bold">
+                            <h3>
                                 Bootstrap CSS and Vanilla CSS
                             </h3>
 
@@ -422,7 +422,7 @@
                                 </g>
                             </svg>
 
-                            <h3 class="bold">
+                            <h3>
                                 Professional Network Designs
                             </h3>
 
@@ -2305,7 +2305,7 @@
                                 </g>
                             </svg>
 
-                            <h3 class="bold">
+                            <h3>
                                 Server Deployment and Configuration
                             </h3>
 
@@ -2433,8 +2433,8 @@
                                 </g>
                             </svg>
 
-                            <h3 class="bold">
-                                System Maintenance &amp; Repairs
+                            <h3>
+                                Maintenance &amp; Repairs
                             </h3>
 
                         </div>
@@ -2442,8 +2442,8 @@
                         <div class="card-body">
 
                             <p>
-                                We provide comprehensive system maintenance and repair services to keep your devices
-                                running smoothly and efficiently.
+                                We provide expert computer maintenance and repair services to keep your systems running
+                                at peak performance.
                             </p>
 
                         </div>

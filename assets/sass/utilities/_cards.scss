@@ -12,7 +12,8 @@
     gap: 1rem;
 
     h3 {
-      font-size: 0.85rem;
+      font-size: 0.9rem;
+      font-weight: bold;
       letter-spacing: 1px;
       text-align: left;
     }
@@ -28,7 +29,7 @@
     padding-block: 1rem;
 
     p {
-      font-size: clamp(0.8rem, 8vw, 0.95rem);
+      font-size: clamp(0.8rem, 8vw, 0.85rem);
     }
   }
 
