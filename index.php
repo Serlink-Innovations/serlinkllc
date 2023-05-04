@@ -37,7 +37,7 @@
 
                                 <li class="nav-items">
 
-                                    <a href="#">
+                                    <a href="#about">
                                         About
                                     </a>
 
@@ -45,7 +45,7 @@
 
                                 <li class="nav-items">
 
-                                    <a href="#">
+                                    <a href="#services">
                                         Services
                                     </a>
 
@@ -53,7 +53,7 @@
 
                                 <li class="nav-items">
 
-                                    <a href="#">
+                                    <a href="#projects">
                                         Projects
                                     </a>
 
@@ -61,7 +61,7 @@
 
                                 <li class="nav-items">
 
-                                    <a href="#">
+                                    <a href="#team">
                                         Team
                                     </a>
 
@@ -98,7 +98,7 @@
                                 Our Projects
                             </button>
 
-                            <button class="btn btn-primary">
+                            <button class="btn btn-primary" onClick="window.open('https://wa.me/18687309322');">
                                 Contact Us
                             </button>
 
@@ -138,7 +138,7 @@
 
         </header>
 
-        <section class="about-contentContainer">
+        <section class="about-contentContainer" id="about">
 
             <div class="container">
 
@@ -198,7 +198,7 @@
 
         </section>
 
-        <section class="services-contentContainer">
+        <section class="services-contentContainer" id="services">
 
             <div class="container">
 
@@ -2460,7 +2460,7 @@
 
         </section>
 
-        <section class="projects-contentContainer">
+        <section class="projects-contentContainer" id="projects">
 
             <div class="container">
 
@@ -2474,16 +2474,23 @@
 
                 <div class="projects-contentContainerTray">
 
-                    <div class="project-card" onclick="location.href='https://www.domegencreative.com';">
+                    <div class="project-card" onClick="window.open('https://domegencreative.com/');">
 
                         <img src="https://bl3302files.storage.live.com/y4md-sKcOxscO1MYarVkJEhkgw-sbkpQd92r73IbByQ5JGO_mrRA7o_CuOlZxjLgJsjhLqN59GISMRokYtT232a3v2BAEiKXI--towG_l6nxuOe7MCdCciLJpYIT-4a3Q8IJehgiEjoUAhgHTt7Rb5Co5fWJkOKYaUP2hz0Reoqi0oywJoMKz-mu8McSJU6hIDT?width=500&height=500&cropmode=none"
                             alt="">
 
                     </div>
 
-                    <div class="project-card" onclick="location.href='https://merry-madeleine-86e419.netlify.app/';">
+                    <div class="project-card" onClick="window.open('https://merry-madeleine-86e419.netlify.app/');">
 
-                        <img src="https://bl3302files.storage.live.com/y4mAj7xpdIdlyb4rsXw-vONIutP1WktRsdpKr5qxoW0XrtQ8BeJsL4TTFE5NCD-VRqahMMWXia1bRNnc3fgCM99Y32aYvAAFjGQpgxH32WeBpE-EF8wzxhLIR_rNG29asCU3WvrUtU-q3TjgiBTVPjxFTFNIAGs1wWFnIkcmC2yLhqdlhof5wsqxX7g0A542TlU?width=500&height=500&cropmode=none"
+                        <img src="https://blz04pap006files.storage.live.com/y4mii6VTngQHuGu7XJouOUMFIhtArBS9E2zwXpEXZT9J8mDTdrdcsJqqgOF92tnezTeauOt9owpdDIaS_bxHNC-OZ0zIZvs_T650rNaAQi0fZ0wqpbqFISfaHuOzGngHm2aIAjQyq-2-K4dYQ3sKP5v8fUfBsVk_LE48h972M1B0zx0iWUv14rTuV1uINrBihy_?width=500&height=500&cropmode=none"
+                            alt="">
+
+                    </div>
+
+                    <div class="project-card" onClick="window.open('https://chimerical-cupcake-36b8bc.netlify.app/');">
+
+                        <img src="https://blz04pap006files.storage.live.com/y4mLa0S6puILWYoJvlgwL6vKWCAhAwuyDGvsRTahFlstwmJdBRBMpO_ULIGztWwuiVaik2RYDv0nK9WbesI5ue2URpouYhNBcVqiKbzhABcY1lkKl1_4yTEz3qxHEkg8kjluKNYNEbiAIVC8XJaltK33o8SRI7XncfcuPZeJ-MnCUP34tfImRlN_XrAoMLFlVKn?width=500&height=500&cropmode=none"
                             alt="">
 
                     </div>
@@ -2494,7 +2501,7 @@
 
         </section>
 
-        <section class="team-contentContainer">
+        <section class="team-contentContainer" id="team">
 
             <div class="container">
 

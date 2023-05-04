@@ -591,12 +591,18 @@ body {
   padding-bottom: 1rem;
 }
 .footer .footer-contentContainer .footer-contentContainerCompanyInfo {
-  display: grid;
+  display: flex;
+  flex-direction: column;
 }
 .footer .footer-contentContainer .footer-contentContainerCompanyInfo img {
   margin-left: -0.65rem;
+  margin-bottom: 1.8rem;
+}
+.footer .footer-contentContainer .footer-contentContainerCompanyInfo p {
+  padding-bottom: 1rem;
 }
 .footer .footer-contentContainer .footer-contentContainerCompanyInfo label strong {
+  font-size: 0.8rem;
   font-weight: bold;
 }
 .footer #copyright {

@@ -139,13 +139,20 @@ body {
     }
 
     .footer-contentContainerCompanyInfo {
-      display: grid;
+      display: flex;
+      flex-direction: column;
 
       img {
         margin-left: -0.65rem;
+        margin-bottom: 1.8rem;
+      }
+
+      p {
+        padding-bottom: 1rem;
       }
 
       label strong {
+        font-size: 0.8rem;
         font-weight: bold;
       }
     }
