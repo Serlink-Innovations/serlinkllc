@@ -584,6 +584,36 @@ body {
 .footer .footer-contentContainer .footer-nav {
   place-self: center;
 }
+.footer .footer-contentContainer .footer-social {
+  display: block;
+}
+.footer .footer-contentContainer .footer-social .social__Container {
+  display: flex;
+  margin-block: 1rem;
+  gap: 1rem;
+}
+.footer .footer-contentContainer .footer-social .social__Container a {
+  width: 3em;
+  height: 3em;
+  border-radius: 100vmax;
+  background-color: var(--primary);
+  display: grid;
+  place-content: center;
+  overflow: hidden;
+}
+.footer .footer-contentContainer .footer-social .social__Container a svg {
+  width: inherit;
+  height: inherit;
+  fill: #f0f8ff;
+  padding: 0.6em;
+}
+.footer .footer-contentContainer .footer-social .social__Container a:hover {
+  display: initial;
+  transform: scale(1.1);
+}
+.footer .footer-contentContainer .footer-social .social__Container a:hover svg {
+  fill: var(--white);
+}
 .footer .footer-contentContainer ul {
   display: grid;
 }

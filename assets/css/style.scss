@@ -130,6 +130,42 @@ body {
       place-self: center;
     }
 
+    .footer-social {
+      display: block;
+
+      .social__Container {
+        display: flex;
+        margin-block: 1rem;
+        gap: 1rem;
+
+        a {
+          width: 3em;
+          height: 3em;
+          border-radius: 100vmax;
+          background-color: var(--primary);
+          display: grid;
+          place-content: center;
+          overflow: hidden;
+
+          svg {
+            width: inherit;
+            height: inherit;
+            fill: #f0f8ff;
+            padding: 0.6em;
+          }
+        }
+
+        a:hover {
+          display: initial;
+          transform: scale(1.1);
+
+          svg {
+            fill: var(--white);
+          }
+        }
+      }
+    }
+
     ul {
       display: grid;
 
