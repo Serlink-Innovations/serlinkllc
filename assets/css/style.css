@@ -250,7 +250,7 @@ meter {
 
 .card {
   border-radius: 1rem;
-  max-width: 250px;
+  width: 16em;
   height: auto;
   padding: 1rem;
   position: relative;
@@ -528,9 +528,11 @@ body {
 }
 .services-contentContainer .services-serviceCardTray {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  margin-block: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  margin-block: 2em;
+  padding-block: 1em;
   place-items: center;
+  overflow: hidden;
 }
 
 .projects-contentContainer {
